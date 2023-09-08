@@ -1,9 +1,9 @@
 
-# def convert_100_to_celsius():
+def convert_100_to_celsius():
     # Convert a temperature of 100 degrees fahrenheit to celsius
     # Save this to a variable called celsius_100, and use print() to print out the value
-celsius_100 = 100
-print ((celsius_100 - 32) * 5/9 )
+    celsius_100 = 100
+    print ((celsius_100 - 32) * 5/9 )
 
 # *** I got a float. I know this because of the decimal***
 
@@ -14,17 +14,17 @@ print ((celsius_100 - 32) * 5/9 )
 
 # convert_100_to_celsius()
 
-# def convert_0_to_celsius():
+def convert_0_to_celsius():
     # Convert a temperature of 0 degrees fahrenheit to celsius
     # Save this to a variable called celsius_0, and use print() to print out the value
-print((0 - 32) * 5/8)
+    print((0 - 32) * 5/8)
 
 #convert_0_to_celsius()
 
-# def convert_34_2_to_celsius():
+def convert_34_2_to_celsius():
     # Convert a temperature of 34.2 degrees fahrenheit to celsius
     # Do this one all in one print statement without saving any variables
-print ((32.2 - 32) * 5/9)
+    print ((32.2 - 32) * 5/9)
     
 #convert_34_2_to_celsius()
 
@@ -32,10 +32,9 @@ print ((32.2 - 32) * 5/9)
 # Now, can you convert back?
 print ((0.11 + 32) * 5/9)
 
-
-# def convert_5_to_fahrenheit():
+def convert_5_to_fahrenheit():
     # Convert a temperature of 5 degrees celsius to fahrenheit and print it out
-print ((5 - 32) * 5/9)
+    print ((5 - 32) * 5/9)
 
 #convert_5_to_fahrenheit()
 
